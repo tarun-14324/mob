@@ -8,7 +8,7 @@ body{
 h1{
 	color: black;
 	font-style: italic;
-padding-left: 20px;
+/* padding-left: -40px; */
   margin-top: 20px;
 margin-bottom: 30px;
 	font-family: sans-serif;
@@ -66,7 +66,7 @@ width: 600px;
     width:600px;
 		height: auto;
     float: left;
-margin-left: 20px;
+margin-left: -20px;
     box-shadow: 0px 0px 10px #c1c1c1;
     background: #fff;
 }
