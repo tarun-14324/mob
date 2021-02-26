@@ -56,14 +56,21 @@ section.todo-outer {
 .form-row{
 	margin-left: 0px;
 margin-right: 0px;
-width: 600px;
+width:500px;
 }
 .to-do-output{
-  width: 600px;
+
+height: auto;
+
+}
+#addtaskinput{
+	width: 100%;
+	margin-top: 20px;
+	margin-left: 80px;
 }
 
 .todo-inner {
-    width:600px;
+    width:500px;
 		height: auto;
     float: left;
 margin-left: -20px;
@@ -71,9 +78,22 @@ margin-left: -20px;
     background: #fff;
 }
 table tr td button {
+
+
     background: no-repeat;
     border: none;
     padding: 0;
     cursor: pointer;
+}
+#addtaskbtn{
+	margin-top: 50px;
+	margin-right: -200px;
+width: 100%;
+
+}
+#deleteallbtn{
+		margin-top: 10px;
+	margin-left: 0;
+	width: 100%;
 }
 .completed{text-decoration: line-through;}
