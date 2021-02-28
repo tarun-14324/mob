@@ -14,8 +14,11 @@ margin-bottom: 30px;
 	font-family: sans-serif;
 }
 .navbar-brand{
+	margin-top: 10px;
+
+
 		color: #ffff;
-margin-left: 50px;
+margin-left: 130px;
 		font-family: sans-serif;
 			font-weight: bold;
 
@@ -23,7 +26,7 @@ margin-left: 50px;
 }
 #searchtextbox{
   margin-top: 20px;
-margin-left: 160px;
+margin-left: 310px;
 		width:140px;
 
 }
